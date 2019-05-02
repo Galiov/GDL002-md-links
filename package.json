@@ -1,4 +1,16 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+
+  "jest": {
+    "verbose": true
+  },
+ 
+  "scripts": {
+    "test": "jest"
+  }
+
 }
