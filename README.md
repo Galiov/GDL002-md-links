@@ -19,6 +19,11 @@ algunas estadísticas.
 
 ![md-links](https://user-images.githubusercontent.com/110297/42118443-b7a5f1f0-7bc8-11e8-96ad-9cc5593715a6.jpg)
 
+## Diagrama de Flujo
+
+[Diagrama de Flujo](https://i.postimg.cc/L65Cs80h/Captura-de-pantalla-de-2019-05-06-11-26-08.png)
+[Diagrama de Flujo II](https://i.postimg.cc/DyNC43t6/Captura-de-pantalla-de-2019-05-06-11-32-54.png)
+
 ## Introducción
 
 [Node.js](https://nodejs.org/es/) es un entorno de ejecución para JavaScript
