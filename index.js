@@ -21,10 +21,9 @@ function pathIsAbsolute () {
 function linksExtractor (str)  {
 	const regularExpression = /\[(.*?)\]\((.*?)\)/gi;
 	let linksArray = [];
-	let match;
-		while(match = regularExpression.exec(str)){
-			arrayContent = {href: match[2], text: match[1]};
-			linksArray.push(arrayContent);	
+	while(match = regularExpression.exec(str)){
+		arrayContent = {href: match[2], text: match[1]};
+		linksArray.push(arrayContent);	
 	};
 		return linksArray;
 };
@@ -32,9 +31,10 @@ function linksExtractor (str)  {
 console.log(pathIsAbsolute());
 //Nos muestra en la terminal array de links
 console.log(linksExtractor(readPath));
+console.log('found links:' + linksExtractor(readPath).length);
 
 
 module.exports = {
 "pathIsAbsolute": pathIsAbsolute,
-"linksExtractor": linksExtractor
+"linksExtractor": linksExtractor,
 };
