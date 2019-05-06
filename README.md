@@ -21,8 +21,11 @@ algunas estadísticas.
 
 ## Diagrama de Flujo
 
-[Diagrama de Flujo](https://i.postimg.cc/L65Cs80h/Captura-de-pantalla-de-2019-05-06-11-26-08.png)
-[Diagrama de Flujo II](https://i.postimg.cc/DyNC43t6/Captura-de-pantalla-de-2019-05-06-11-32-54.png)
+Diagrama de Flujo I
+![Diagrama de Flujo](https://i.postimg.cc/L65Cs80h/Captura-de-pantalla-de-2019-05-06-11-26-08.png)
+
+Diagrama de Flujo II
+![Diagrama de Flujo II](https://i.postimg.cc/DyNC43t6/Captura-de-pantalla-de-2019-05-06-11-32-54.png)
 
 ## Introducción
 
